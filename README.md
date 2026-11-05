@@ -81,3 +81,12 @@ Save as TyPO.app in your /Applications folder.
 
 4. Execution
 Double-click TyPO.app or add it to System Settings > Login Items for auto-launch. The TyPO shield icon will silently appear in your menu bar, ready to deploy. Click Open Dashboard Console to monitor real-time network sinkhole statistics.
+Menu Bar:
+<img width="238" height="237" alt="image" src="https://github.com/user-attachments/assets/15e4a7ba-f5f2-4eb5-b871-53f0c1fe3bae" />
+Dashboard when not using Apple Private Relay:
+<img width="620" height="570" alt="image" src="https://github.com/user-attachments/assets/c2129994-c0df-4043-8b10-df01d14f0491" />
+Dashboard when using Apple Private Relay:
+<img width="627" height="596" alt="image" src="https://github.com/user-attachments/assets/34dd61ae-90ed-4b3f-b02e-6ebc20a51fec" />
+
+
+
